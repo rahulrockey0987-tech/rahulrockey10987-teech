@@ -57,9 +57,9 @@ When I'm not coding, I'm creating content and sharing what I learn:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulrockey0987-teech&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github.com/rahulrockey0987-tech)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulrockey0987-teech&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github.com/rahulrockey0987-tech)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrockey0987-teech&layout=compact&theme=tokyonight&hide_border=true)
 
